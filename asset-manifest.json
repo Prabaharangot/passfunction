@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/passfunction/static/css/main.e6c13ad2.css",
+    "main.js": "/passfunction/static/js/main.f04bd4f8.js",
+    "index.html": "/passfunction/index.html",
+    "main.e6c13ad2.css.map": "/passfunction/static/css/main.e6c13ad2.css.map",
+    "main.f04bd4f8.js.map": "/passfunction/static/js/main.f04bd4f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f04bd4f8.js"
+  ]
+}
